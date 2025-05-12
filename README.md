@@ -2,6 +2,10 @@
 
 This project is an NLP classification task where we predict disaster-related tweets using Logistic Regression.
 
+## Kaggle Competition
+
+This project is based on the [Kaggle competition: Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview).
+
 ## Dataset
 
 The datasets are in the `datasets/` folder:
@@ -20,6 +24,6 @@ The following libraries are required to run the notebook:
 - jupyter
 
 Install them using:
+
 ```bash
 pip install -r requirements.txt
-# disaster-tweets-nlp
